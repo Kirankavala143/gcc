@@ -1,0 +1,488 @@
+.desktop-1 .my-portfolio {
+  margin: 20px 12px 0 0;
+  display: inline-block;
+  width: 250px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-1 .about {
+  margin: 9px 22.2px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-1 .certifications-1 {
+  margin: 9px 31.5px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-1 .projects-1 {
+  margin: 10px 29.7px 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color:#508C9B;
+}
+.desktop-1 .contact {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.desktop-1 .container-11 {
+  border-radius: 15px;
+  background: #8F3F3F;
+  position: relative;
+  display: flex;
+  padding: 10px 14.8px 6px 7px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-4 {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-1 .container-8 {
+  background: #201E43;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 42px 0 38px 0;
+  width: 1487px;
+  box-sizing: border-box;
+}
+.desktop-1 .hello-this-is-kiran {
+  margin-left:0px;  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 64px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  margin-left: -40rem;
+}
+.desktop-1 .this-is-my-official-website-to-show-all-details-and-workexperience-of-web-development {
+  margin-left: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 15px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  margin-left: -40rem;
+}
+.desktop-1 .container-10 {
+  background: #134B70;
+  position: relative;
+  margin: 0 23px 496px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 127px 0 111px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-1 .certifications {
+  margin: 0 98.4px 38px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 64px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.desktop-1 .rectangle-15 {
+  background: #D9D9D9;
+  margin-right: 47px;
+  width: 380px;
+  height: 310px;
+}
+.desktop-1 .rectangle-7 {
+  background: #D9D9D9;
+  margin-right: 79px;
+  width: 390px;
+  height: 310px;
+}
+.desktop-1 .ibm-2-jpg-2 {
+  background: url('../assets/images/ibm_2_jpg_2.png') 50% / cover no-repeat;
+  width: 392.4px;
+  height: 303px;
+}
+.desktop-1 .container-2 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 3px 0 4px 0;
+  display: flex;
+  width: 392.4px;
+  height: 303px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 1288.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .html-1 {
+  background: url('../assets/images/html_1.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 427px;
+  top: 0px;
+  width: 392px;
+  height: 303px;
+}
+.desktop-1 .container-12 {
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 1288.4px;
+  box-sizing: border-box;
+}
+.desktop-1 .data-science-enterprise-data-science {
+  margin: 2px 25px 14px 0;
+  display: inline-block;
+  width: 259px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.desktop-1 .cloud-journey-to-cloud-1 {
+  margin-bottom: 6px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 24px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.desktop-1 .cloud-journey-to-cloud {
+  margin-top: 6px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 24px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.desktop-1 .container-18 {
+  margin: 0 103.8px 0 82.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1102.5px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1288.4px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .ibm-jpg-2 {
+  background: url('../assets/images/ibm_jpg_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 78px;
+  bottom: 116.5px;
+  width: 378.3px;
+  height: 310.9px;
+}
+.desktop-1 .container-3 {
+  background: #134B70;
+  position: relative;
+  margin: 0 23px 810px 24px;
+  display: flex;
+  padding: 17px 74.6px 31px 77px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-1 .get-in-touch {
+  margin: 0 490.2px 50px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 64px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.desktop-1 .do-you-need-anew-project-or-job-for-me-or-just-want-to-have-achat-feel-free-to-connect {
+  margin-bottom: 36px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 32px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.desktop-1 .oip-1 {
+  background: url('../assets/images/oip_1.jpeg') 50% / cover no-repeat;
+  margin: 1px 53px 0 0;
+  width: 104px;
+  height: 81px;
+}
+.desktop-1 .r-1 {
+  background: url('../assets/images/r_1.png') 50% / cover no-repeat;
+  margin: 1px 53px 0 0;
+  width: 81px;
+  height: 81px;
+}
+.desktop-1 .workfeatured-git-hub-21 {
+  background: url('../assets/images/workfeatured_git_hub_21.png') 50% / cover no-repeat;
+  margin: 1px 50.3px 1px 0;
+  width: 97.7px;
+  height: 80px;
+}
+.desktop-1 .oip-11 {
+  background: url('../assets/images/oip_11.jpeg') 50% / cover no-repeat;
+  margin-bottom: 1px;
+  width: 144.3px;
+  height: 81px;
+}
+.desktop-1 .container-5 {
+  margin: 0 65.2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 583.3px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-6 {
+  background: #D9D9D9;
+  position: relative;
+  margin-left: 1.8px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 12.8px 14px 10.8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .container {
+  background: #160D3C;
+  position: relative;
+  margin: 0 9px 0 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 367px 0 151px 0;
+  width: 1454px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1487px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .the-removebg-preview-1 {
+  background: url('../assets/images/the_removebg_preview_1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 124px;
+  right: 205px;
+  width: 480px;
+  height: 496px;
+}
+.desktop-1 .im-aweb-developer {
+  margin: 0 43px 31px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 64px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.desktop-1 .as-apassionate-and-dedicated-web-developer-ihave-honed-my-skills-in-designing-and-building-responsive-user-friendly-websites-and-web-applications-with-astrong-foundation-in-html-css-and-java-script-combined-with-experience-in-modern-frameworks-such-as-react-and-angular-iam-committed-to-delivering-high-quality-digital-experiences-my-expertise-spans-from-front-end-development-to-back-end-integration-ensuring-seamless-functionality-and-an-engaging-user-experience {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.desktop-1 .container-9 {
+  border-radius: 20px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 34px 25.4px 33px 23px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-14 {
+  background: #508C9B;
+  position: absolute;
+  left: 0px;
+  top: 568px;
+  right: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 96px 0 45px 0;
+  box-sizing: border-box;
+}
+.desktop-1 .ellipse-1 {
+  position: absolute;
+  left: 190px;
+  top: 182px;
+  width: 348px;
+  height: 352px;
+}
+.desktop-1 .ellipse-2 {
+  position: absolute;
+  left: 190px;
+  top: 620px;
+  width: 348px;
+  height: 352px;
+}
+.desktop-1 .projects {
+  margin: 0 168px 125px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 64px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+.desktop-1 .soil-prediction-soil-prediction-is-the-process-of-estimating-soil-properties-in-agiven-area-based-on-various-factors-it-is-crucial-for-understanding-the-potential-uses-of-land-and-managing-resources {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 600;
+  font-size: 24px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.soil-prediction-soil-prediction-is-the-process-of-estimating-soil-properties-in-agiven-area-based-on-various-factors-it-is-crucial-for-understanding-the-potential-uses-of-land-and-managing-resources-sub4 {
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.333;
+  text-transform: capitalize;
+}
+.soil-prediction-soil-prediction-is-the-process-of-estimating-soil-properties-in-agiven-area-based-on-various-factors-it-is-crucial-for-understanding-the-potential-uses-of-land-and-managing-resources {
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.333;
+  text-transform: capitalize;
+}
+.desktop-1 .container-1 {
+  border-radius: 0 40px 40px 0;
+  background: #FEF9F9;
+  position: relative;
+  margin: 0 7px 221px 0;
+  display: flex;
+  padding: 24px 59.1px 19px 59.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hospital-management-system-ahospital-management-system-streamlines-operations-improves-efficiency-and-enhances-patient-care-it-integrates-various-departments-centralizing-data-and-processes-for-seamless-communication-and-collaboration-sub4 {
+  font-family: 'Outfit';
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.333;
+  text-transform: capitalize;
+}
+.hospital-management-system-ahospital-management-system-streamlines-operations-improves-efficiency-and-enhances-patient-care-it-integrates-various-departments-centralizing-data-and-processes-for-seamless-communication-and-collaboration {
+  font-family: 'Outfit';
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 1.333;
+  text-transform: capitalize;
+}
+.desktop-1 .hospital-management-system-ahospital-management-system-streamlines-operations-improves-efficiency-and-enhances-patient-care-it-integrates-various-departments-centralizing-data-and-processes-for-seamless-communication-and-collaboration {
+  overflow-wrap: break-word;
+  font-family: 'Outfit';
+  font-weight: 400;
+  font-size: 24px;
+  text-transform: capitalize;
+  color: #000000;
+}
+.desktop-1 .container-17 {
+  border-radius: 0 40px 40px 0;
+  background: #D9D9D9;
+  position: relative;
+  margin-left: 27px;
+  display: flex;
+  padding: 22px 43.3px 26px 70px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 243px;
+  top: 264px;
+  width: 248px;
+  height: 208px;
+}
+.desktop-1 .image-4 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 225px;
+  bottom: 152px;
+  width: 266px;
+  height: 208px;
+}
+.desktop-1 .group-1 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 654px;
+  display: flex;
+  padding: 58px 0 0 180px;
+  height: 1058px;
+  box-sizing: border-box;
+}
+.desktop-1 .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 145px;
+  top: 676px;
+  width: 430px;
+  height: 420px;
+}
+.desktop-1 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
